@@ -12,3 +12,5 @@ download the steamtools exe file and games lua script with gameid
 run the steamtools then drag and drop the zip files contents 
 
 any games will be added to your library
+
+this trick doesn't work on any DRM (Denuvo Protected Games)
