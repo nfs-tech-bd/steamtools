@@ -7,7 +7,7 @@ Steamtools - all paid steam games install directly from steam for free (not crac
 
 no crack no malware 
 
-just goto steamtool.pages.dev or steamtools.manifesthub.uk
+just goto https://steamtool.pages.dev / https://steamtools.manifesthub.uk / https://steamtoolz.pages.dev
 
 download the steamtools exe file and games lua script with gameid
 
